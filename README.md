@@ -23,4 +23,4 @@ rake db:seed
 
 * [Valerie McCarthy](https://github.com/ValerieMcCarthy)
 
-with important inspriation from the [Humanthology](http:www.humanthology.com) team
+with important inspriation from the [Humanthology team](http:www.humanthology.com)
